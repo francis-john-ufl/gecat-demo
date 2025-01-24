@@ -1,6 +1,6 @@
 {
-    "name": "gecat_flutter",
-    "short_name": "gecat_flutter",
+    "name": "gecat",
+    "short_name": "gecat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
