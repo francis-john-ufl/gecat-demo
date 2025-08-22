@@ -26403,7 +26403,7 @@ aqR(a){var s=0,r=A.K(t.N),q,p,o,n
 var $async$aqR=A.G(function(b,c){if(b===1)return A.H(c,r)
 while(true)switch(s){case 0:p=A.Fl(B.eu,a,B.Z,!0)
 s=3
-return A.F(A.aQV(A.hC("http://gecatserver.vps.webdock.cloud").Wf(A.ak(["sql",p],t.N,t.z))),$async$aqR)
+return A.F(A.aQV(A.hC("https://gecatserver.vps.webdock.cloud").Wf(A.ak(["sql",p],t.N,t.z))),$async$aqR)
 case 3:o=c
 n=o.b
 if(n!==200)throw A.f("Database error: server code: "+n)
